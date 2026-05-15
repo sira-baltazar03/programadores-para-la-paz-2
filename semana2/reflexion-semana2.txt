@@ -1,0 +1,1 @@
+Es importante saber usar la terminal para poder moverse rapidamente entre carpetas, crear, organizar y modificar archivos, por lo que saber usarlas permite un trabajo mas eficiente y trabajar de manera ordenada.
