@@ -1,0 +1,11 @@
+Repositorio: es un espacio de almacenamiento en la nube de tipo digital centralizado, donde se guardan los archivos de proyectos, 
+codigos, historial de cambios y de revisiones de cada archivo, estos pueden contar con multiples colaboradores, pueden ser de tipo privado o publico. 
+
+Commit: hace referencia a tomar una fotografia o una instantanea del repositorio o guarda un punto de control del código en un momento especifico
+y registra archivos que fueron modificados, quien realiza los cambios, y así crea un historial de versiones permanente del proyecto en el 
+que se esta trabajando. 
+
+
+
+Push: hace referencia a la accion de subir cambios, archivos, hacer actualizaciones desde el repositorio local, es decir, mi computador o dispositivo movil
+hacia la nube en Github. Hace parte de los comandos de Git que solicitan la interaccion con el repositorio remoto. 

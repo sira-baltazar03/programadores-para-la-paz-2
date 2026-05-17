@@ -1,0 +1,7 @@
+Es importante que los proyectos de software mantengan un registro de cambios con herramientas como Git
+porque genera una especie de Linea de tiempo que permite organizar y controlar las modificaciones que se realizan
+en el codigo, registrando quien realizo los cambios, cuando lo hizo y que modifico. Git permite recuperar versiones anteriores
+en casos de error o cambios que dañen el proyecyo. Permite además a varios programadores trabajar en simultaneo en diferentes aspectos
+sin que se generen conflictos y errores en el codigo. Teniendo en cuanta, que el control de versiones es fundamental para el proceso de 
+desarrollo de software es elemental mantener el registro historio de los cambios realizados. Por lo que genera trazabilidad y seguridad, que 
+mantienen la calidad y coherencia en el desarrollo de programas. 
